@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyRadioButton">
+        <attr name="drawableTop" format="reference" />
+        <attr name="drawableLeft" format="reference" />
+        <attr name="drawableRight" format="reference" />
+        <attr name="drawableBotton" format="reference" />
+        <attr name="imgW" format="integer" />
+        <attr name="imgH" format="integer" />
+    </declare-styleable>
+</resources>
